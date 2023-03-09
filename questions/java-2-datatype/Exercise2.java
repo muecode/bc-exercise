@@ -13,6 +13,7 @@
  * venturenixlab, java
  * V*NTUR*NIXLAB, JAVA!!!
  */
+
 public class Exercise2 {
   public static void main(String[] args) {
     String str = "VenturenixLAB, Java";
