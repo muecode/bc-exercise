@@ -15,7 +15,7 @@ public class Exercise8 {
 
     Scanner input = new Scanner(System.in);
 
-    System.out.print("Input a Index Position: ");
+    System.out.print("Input an Index Position: ");
     int Index_position = input.nextInt();
 
     System.out.print("Input a new Value: ");
